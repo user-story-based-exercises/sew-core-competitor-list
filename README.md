@@ -5,7 +5,7 @@ SEW | CORE | Competitor List
 
 ### Acceptance Criteria
 - A list of all competitors is visible
-- A separate vue-Component has been implemented for a list entry.  
+- A separate vue-component has been implemented for a list entry  
 - Each entry displays the firstname, lastname and the current rank of the competitor
 - The list is sorted by the competitors lastname
 - The rank for each competitor can be set
